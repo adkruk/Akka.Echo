@@ -1,0 +1,11 @@
+C:\Users\Adrian\Source\Repos\AkkaPubSub\Messaging.Client\bin\Debug\netcoreapp2.1\Messaging.Client.deps.json
+C:\Users\Adrian\Source\Repos\AkkaPubSub\Messaging.Client\bin\Debug\netcoreapp2.1\Messaging.Client.runtimeconfig.json
+C:\Users\Adrian\Source\Repos\AkkaPubSub\Messaging.Client\bin\Debug\netcoreapp2.1\Messaging.Client.runtimeconfig.dev.json
+C:\Users\Adrian\Source\Repos\AkkaPubSub\Messaging.Client\bin\Debug\netcoreapp2.1\Messaging.Client.dll
+C:\Users\Adrian\Source\Repos\AkkaPubSub\Messaging.Client\bin\Debug\netcoreapp2.1\Messaging.Client.pdb
+C:\Users\Adrian\Source\Repos\AkkaPubSub\Messaging.Client\obj\Debug\netcoreapp2.1\Messaging.Client.csproj.CoreCompileInputs.cache
+C:\Users\Adrian\Source\Repos\AkkaPubSub\Messaging.Client\obj\Debug\netcoreapp2.1\Messaging.Client.AssemblyInfoInputs.cache
+C:\Users\Adrian\Source\Repos\AkkaPubSub\Messaging.Client\obj\Debug\netcoreapp2.1\Messaging.Client.AssemblyInfo.cs
+C:\Users\Adrian\Source\Repos\AkkaPubSub\Messaging.Client\obj\Debug\netcoreapp2.1\Messaging.Client.dll
+C:\Users\Adrian\Source\Repos\AkkaPubSub\Messaging.Client\obj\Debug\netcoreapp2.1\Messaging.Client.pdb
+C:\Users\Adrian\Source\Repos\AkkaPubSub\Messaging.Client\obj\Debug\netcoreapp2.1\Messaging.Client.csprojAssemblyReference.cache

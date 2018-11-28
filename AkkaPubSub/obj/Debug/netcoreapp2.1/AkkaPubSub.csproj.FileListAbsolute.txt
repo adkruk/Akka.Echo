@@ -1,0 +1,11 @@
+C:\Users\Adrian\Source\Repos\AkkaPubSub\AkkaPubSub\bin\Debug\netcoreapp2.1\AkkaPubSub.deps.json
+C:\Users\Adrian\Source\Repos\AkkaPubSub\AkkaPubSub\bin\Debug\netcoreapp2.1\AkkaPubSub.runtimeconfig.json
+C:\Users\Adrian\Source\Repos\AkkaPubSub\AkkaPubSub\bin\Debug\netcoreapp2.1\AkkaPubSub.runtimeconfig.dev.json
+C:\Users\Adrian\Source\Repos\AkkaPubSub\AkkaPubSub\bin\Debug\netcoreapp2.1\AkkaPubSub.dll
+C:\Users\Adrian\Source\Repos\AkkaPubSub\AkkaPubSub\bin\Debug\netcoreapp2.1\AkkaPubSub.pdb
+C:\Users\Adrian\Source\Repos\AkkaPubSub\AkkaPubSub\obj\Debug\netcoreapp2.1\AkkaPubSub.csproj.CoreCompileInputs.cache
+C:\Users\Adrian\Source\Repos\AkkaPubSub\AkkaPubSub\obj\Debug\netcoreapp2.1\AkkaPubSub.AssemblyInfoInputs.cache
+C:\Users\Adrian\Source\Repos\AkkaPubSub\AkkaPubSub\obj\Debug\netcoreapp2.1\AkkaPubSub.AssemblyInfo.cs
+C:\Users\Adrian\Source\Repos\AkkaPubSub\AkkaPubSub\obj\Debug\netcoreapp2.1\AkkaPubSub.dll
+C:\Users\Adrian\Source\Repos\AkkaPubSub\AkkaPubSub\obj\Debug\netcoreapp2.1\AkkaPubSub.pdb
+C:\Users\Adrian\Source\Repos\AkkaPubSub\AkkaPubSub\obj\Debug\netcoreapp2.1\AkkaPubSub.csprojAssemblyReference.cache

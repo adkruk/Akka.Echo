@@ -1,0 +1,9 @@
+C:\Users\Adrian\Source\Repos\AkkaPubSub\Messaging.Common\obj\Debug\netcoreapp2.1\Messaging.Common.csprojAssemblyReference.cache
+C:\Users\Adrian\Source\Repos\AkkaPubSub\Messaging.Common\obj\Debug\netcoreapp2.1\Messaging.Common.csproj.CoreCompileInputs.cache
+C:\Users\Adrian\Source\Repos\AkkaPubSub\Messaging.Common\obj\Debug\netcoreapp2.1\Messaging.Common.AssemblyInfoInputs.cache
+C:\Users\Adrian\Source\Repos\AkkaPubSub\Messaging.Common\obj\Debug\netcoreapp2.1\Messaging.Common.AssemblyInfo.cs
+C:\Users\Adrian\Source\Repos\AkkaPubSub\Messaging.Common\bin\Debug\netcoreapp2.1\Messaging.Common.deps.json
+C:\Users\Adrian\Source\Repos\AkkaPubSub\Messaging.Common\bin\Debug\netcoreapp2.1\Messaging.Common.dll
+C:\Users\Adrian\Source\Repos\AkkaPubSub\Messaging.Common\bin\Debug\netcoreapp2.1\Messaging.Common.pdb
+C:\Users\Adrian\Source\Repos\AkkaPubSub\Messaging.Common\obj\Debug\netcoreapp2.1\Messaging.Common.dll
+C:\Users\Adrian\Source\Repos\AkkaPubSub\Messaging.Common\obj\Debug\netcoreapp2.1\Messaging.Common.pdb
